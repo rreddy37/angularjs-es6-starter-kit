@@ -1,0 +1,23 @@
+batchjobs {
+	.panel {
+		border: 1px solid #cdcdcd;
+		height: 100%;
+	}
+	.left-panel {
+		
+		background-color: #cdcdcd;
+	}
+	.search-input {
+		
+	}
+	.hide-right-panel {
+		top: 50%;
+		position: relative;
+		float: left;
+	}
+	.show-right-panel {
+		top: 50%;
+		position: relative;
+		float: right;
+	}
+}
